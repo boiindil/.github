@@ -8,36 +8,18 @@ Independent structural IP work for audit-ready governance, decision logic, and r
 
 I build selected open reference artifacts around governance kernels, defensible decision-support logic, AI assurance structures, computational traces, and local reproducible prototypes.
 
-The work is artifact-first: small enough to review, explicit enough to audit, and cleanly separated from operational data, managed services, or platform lock-in.
+The work is artifact-first: small enough to review, explicit enough to audit, and cleanly separated from operational data, managed services, platform lock-in, or infrastructure responsibility.
 
-Sponsorships support the public reference layer.
+Sponsorship supports the public reference layer.
 
-They do not create consulting obligations, private IP access, commercial usage rights, exclusivity, or operational support. Commercial review, licensing, internal deployment, white-label, OEM, embedded, or exclusive rights are handled separately by written agreement.
+Sponsorship does not create consulting obligations, legal, financial, medical, procurement, or technical advice, private IP access, commercial usage rights, exclusivity, operational support, delivery obligations, deployment rights, implementation rights, review entitlement, or access to private repositories.
 
-## Suggested sponsorship tiers
+Commercial review, licensing, internal deployment, white-label, OEM, embedded, or exclusive rights are handled separately by written agreement.
 
-### EUR 5 / month - Reference Signal
+## Sponsor tier policy
 
-Supports independent open reference work.
+No public sponsorship tiers, rewards, delivery commitments, private access benefits, or support obligations are defined here.
 
-No commercial rights, support obligation, or private access included.
+Sponsorship is treated as voluntary support for public reference work only.
 
-### EUR 25 / month - Review Supporter
-
-Supports continued preparation of small, reviewable public artifacts.
-
-No commercial rights, support obligation, or private access included.
-
-### EUR 100 / month - Structural Work Supporter
-
-Supports deeper public reference work around audit-ready governance, decision logic, and computational prototypes.
-
-No commercial rights, support obligation, or private access included.
-
-### EUR 500 / month - Institutional Signal
-
-For organizations that want to support the public reference layer while keeping commercial review, licensing, internal use, or exclusivity separate.
-
-No commercial rights, support obligation, private IP access, or deployment rights included.
-
-For commercial review or licensing, separate written agreement required.
+Commercial review or licensing requires a separate written agreement.
